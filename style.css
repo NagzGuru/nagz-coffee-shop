@@ -1,0 +1,44 @@
+body {
+    color: peru;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: rgb(41, 37, 37);
+    text-transform: none;
+    text-align: justify;
+    word-spacing: 0.1rem;
+    line-height: 1.5rem;
+    word-spacing: 0.1rem;
+    
+}
+
+
+    h2{ 
+        background-color: rgb(17, 13, 20);
+    } 
+    .container{
+        width: 100%;
+        max-width: 960px;
+        margin: 0 auto;
+    }
+
+.menu-button{
+background-color: transparent;
+border: none;
+width: 48px;
+height: 48px;
+display: flex;
+justify-content: center;
+align-items: center;
+position: relative;
+}
+.menu-icon
+.menu-icon::before,
+.menu-icon::after{
+    background-color: antiquewhite;
+    width: 40px;
+    height: 4opx;
+}
+
+
+
+
+
